@@ -108,7 +108,7 @@ The final plot compares:
 ## ✍️ Notable Years
 
 - **2007**: Model misses a local minimum — a rare deviation that stands out against surrounding trends.
-- **2014&2017**: Model underpredicts two sharp peaks, suggesting limitations in forecasting extreme events.
+- **2014 & 2017**: Model underpredicts two sharp peaks, suggesting limitations in forecasting extreme events.
 
 ---
 
