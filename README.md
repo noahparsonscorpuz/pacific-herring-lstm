@@ -95,8 +95,8 @@ We forecasted the **entire post-training window: 2001–2023**, then compared th
 ## 📊 Visualization
 
 The final plot compares:
-- **Training Data** (≤ 2000) — blue
-- **Observed Spawning Index (2001–2023)** — light blue
+- **Training Data** (≤ 2000) — navy
+- **Observed Spawning Index (2001–2023)** — blue
 - **Model Forecast (2001–2023)** — red
 
 ![Forecast vs Actual](visualizations/Forecast%20vs%20Observed%20(2001-2023).png)
