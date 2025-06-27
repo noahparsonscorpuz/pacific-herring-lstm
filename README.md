@@ -16,7 +16,7 @@ The Strait of Georgia (SoG) herring stock is one of the most closely monitored a
 - Broader comparative studies across coastal B.C.
 - ... and more!
 
---
+---
 
 ## 🐟 Data Source
 
